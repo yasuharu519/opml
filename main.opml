@@ -12,6 +12,7 @@
         <outline text="開発・WEB" title="開発・WEB">
             <outline type="rss" text="橋本商会" title="橋本商会" xmlUrl="http://shokai.org/blog/feed" htmlUrl="http://shokai.org/blog"/>
             <outline type="rss" text="Pythonタグが付けられた新着投稿 - Qiita" title="Pythonタグが付けられた新着投稿 - Qiita" xmlUrl="http://qiita.com/tags/Python/feed.atom" htmlUrl="http://qiita.com"/>
+            <outline type="rss" text="mizchi's blog" title="mizchi's blog" xmlUrl="http://mizchi.hatenablog.com/rss" htmlUrl="http://mizchi.hatenablog.com/"/>
             <outline type="rss" text="The GitHub Blog" title="The GitHub Blog" xmlUrl="https://github.com/blog/engineering.atom" htmlUrl="https://github.com/blog"/>
             <outline type="rss" text="ワザノバ | wazanova.jp" title="ワザノバ | wazanova.jp" xmlUrl="http://wazanova.jp/rss" htmlUrl="http://wazanova.jp/"/>
             <outline type="rss" text="ssig33.com - recent update" title="ssig33.com - recent update" xmlUrl="http://ssig33.com/feed" htmlUrl="http://ssig33.com"/>
