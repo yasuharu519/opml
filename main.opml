@@ -103,6 +103,7 @@
             <outline type="rss" text="元RX-7乗りの適当な日々" title="元RX-7乗りの適当な日々" xmlUrl="http://d.hatena.ne.jp/rx7/rss" htmlUrl="http://d.hatena.ne.jp/rx7/"/>
             <outline type="rss" text="cocos2d-xタグが付けられた新着投稿 - Qiita" title="cocos2d-xタグが付けられた新着投稿 - Qiita" xmlUrl="http://qiita.com/tags/cocos2d-x/feed" htmlUrl="http://qiita.com"/>
             <outline type="rss" text="941::blog" title="941::blog" xmlUrl="http://blog.kushii.net/index.rdf" htmlUrl="http://blog.kushii.net/"/>
+            <outline type="rss" text="闇夜のC++" title="闇夜のC++" xmlUrl="http://cpp.aquariuscode.com/feed" htmlUrl="http://cpp.aquariuscode.com/"/>
         </outline>
         <outline text="ファッション" title="ファッション">
             <outline type="rss" text="The Sartorialist" title="The Sartorialist" xmlUrl="http://feeds.feedburner.com/TheSartorialist" htmlUrl="http://www.thesartorialist.com"/>
